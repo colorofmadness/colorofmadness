@@ -1,5 +1,7 @@
 ### https://colorofmadness-resume.netlify.app
 
+### https://colorofmadness-memorygame.netlify.app/
+
 <!--
 **colorofmadness/colorofmadness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
